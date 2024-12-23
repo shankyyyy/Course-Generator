@@ -60,5 +60,3 @@ To use this app, you need to create an account or log in with an existing one. T
 Learning Journey is a prototype web app that uses OpenAI's API & Youtube API to power the AI assistant. The app is not affiliated with OpenAI or Google. The app is for demonstration and knowledge purposes only and does not guarantee the accuracy, quality, or suitability of the responses. The app may not work properly on some devices or browsers. The app may stop working at any time due to API limitations or other reasons.
 
 ## Feedback
-
-If you have any feedback, suggestions, or issues with the app, please contact me at kaifmohd2014@gmail.com. I would love to hear from you and improve the app. Thank you for using Learning Journey! 😊
