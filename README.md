@@ -4,7 +4,8 @@
 
 # Demo Video
 
-https://github.com/kaifcoder/learning-journey/assets/57701861/759eee21-2696-4085-8e33-774f1332f4b9
+
+https://github.com/user-attachments/assets/132dacef-ded7-4f10-816e-3436fe046d01
 
 ## Features
 
