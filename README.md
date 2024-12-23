@@ -3,9 +3,7 @@
 ### Learning Journey is a web app that helps you learn and create your own online courses with the help of AI
 
 # Demo Video
-
-
-https://github.com/user-attachments/assets/132dacef-ded7-4f10-816e-3436fe046d01
+https://github.com/user-attachments/assets/ff39937b-7716-4a68-81f6-32edf8d8e0a9
 
 ## Features
 
